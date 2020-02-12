@@ -32,5 +32,7 @@ Universidade Federal de Santa Catarina - Florianópolis - Brasil
 ### Autores
 
 •	João Norberto Destro - joaodestro@gmail.com
+
 •	Diego Alfonso Erbas - diegoerba@gmail.com
+
 •	Everton da Silva - everton.silva@ufsc.br

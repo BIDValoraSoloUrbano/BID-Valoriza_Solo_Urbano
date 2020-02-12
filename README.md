@@ -1,4 +1,4 @@
-MODELOS DE VALORIZAÇÃO DA INTERVENÇÃO PÚBLICA A NÍVEL MUNICIPAL
+### MODELOS DE VALORIZAÇÃO DA INTERVENÇÃO PÚBLICA A NÍVEL MUNICIPAL
 
 O modelo desenvolvido prediz a valorização continua de terrenos próximos a uma obra pública a partir de amostras de preços de mercado. 
 
@@ -15,7 +15,7 @@ O arquivo BID_VALORIZA_DADOS.rar contem a pasta do plugin e a pasta com dados pa
 
 O plugin roda no QGIS versão 2.18.26.
 
-#### Dependencias
+### Instituições
 Prefeitura Municipal de Aracaju, Belo Horizonte e Fortaleza.
 Universidade Federal de Santa Catarina - Florianópolis - Brasil
 

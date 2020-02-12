@@ -17,6 +17,9 @@ A partir dos dois mapas, determinou-se o “mapas das diferenças”, identifica
 
 IMPORTANTE: Os arquivos deverão ter o mesmo Sistema de Referencia 	Cartográfica - SRC.
 
+Após a copia dos arquivos para seus devidos locais, carregar o QGIS e seguir os passos abaixo para ativar o plugin “_Valoriza Solo Urbano”.
+
+
 ### Guía de instalação
 
 O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. 

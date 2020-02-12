@@ -22,7 +22,7 @@ Após a copia dos arquivos para seus devidos locais, carregar o QGIS e seguir os
 
 ### Guía de instalação
 
-O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. 
+O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf
 
 O arquivo BID_VALORIZA_DADOS.rar contem a pasta do plugin e a pasta com dados para a simulação de cálculo.
 

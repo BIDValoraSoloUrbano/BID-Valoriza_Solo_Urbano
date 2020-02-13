@@ -113,3 +113,8 @@ Universidade Federal de Santa Catarina - Florianópolis - Brasil
 •	Diego Alfonso Erbas - diegoerba@gmail.com
 
 •	Everton da Silva - everton.silva@ufsc.br
+
+### Licença
+
+---
+

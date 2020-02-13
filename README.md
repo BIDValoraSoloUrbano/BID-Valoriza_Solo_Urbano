@@ -1,5 +1,7 @@
 ### MODELOS DE VALORIZAÇÃO DA INTERVENÇÃO PÚBLICA A NÍVEL MUNICIPAL
 
+---
+
 O modelo desenvolvido prediz a valorização continua de terrenos próximos a uma obra pública a partir de amostras de preços de mercado. 
 
 Para o desenvolvimento foram utilizados dados dos observatórios de mercado imobiliário levantados antes e depois da obra, utilizando dados próximos e até o limite da evidencia de sua influência.
@@ -8,6 +10,8 @@ Depois de realizar o tratamento dos dados brutos, procedeu-se o cálculo do semi
 A partir dos dois mapas, determinou-se o “mapas das diferenças”, identificando-se os píxeis com alteração no valor. Foram estabelecidas faixas de valores em função da distância dos imóveis até a obra e estes valores foram introduzidos no plugin para permitir que outros municípios tenham condições de efetuar ou prever a valorização dos imóveis em torno de uma obra similar.
 
 ### Guía de usuário
+
+---
 
 1) Para os cálculos, deverão estar na pasta, os dados referentes a MALHA_URBANA, OBRA_PAVIM_LINHA e o arquivo LOTES.QML (que define automaticamente as cores do temático);
 
@@ -64,10 +68,9 @@ Para o cálculo, chamar o plugin:
 
 > - VALTOT : incremento do valor do lote após a materialização da obra (a ser acrescido ao valor cadastral).
 
--------------------------------------------------
-final do guia do usuário novo
--------------------------------------------------
 ### Guía de instalação
+
+---
 
 O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. 
 https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf
@@ -86,17 +89,24 @@ Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugi
 
 #### Dependencias
 
+---
+
 1) Plugin roda no QGIS versão 2.18.26.
 
 2) Da pasta com dados para a simulação de cálculo, denominada “BID_Valoriza_Solo_Urbano” que esta contida no arquivo  "BID_VALORIZA_DADOS.rar".
 
-------------------------------------------------------------------------------------------------------------------
 
 ### Instituições
+
+---
+
 Prefeitura Municipal de Aracaju, Belo Horizonte e Fortaleza.
+
 Universidade Federal de Santa Catarina - Florianópolis - Brasil
 
 ### Autores
+
+---
 
 •	João Norberto Destro - joaodestro@gmail.com
 

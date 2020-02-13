@@ -87,7 +87,7 @@ O roteiro contendo informações com relação ao ambiente e software necessári
 
 Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugin estão contidos no arquivo "BID_VALORIZA_DADOS.rar".
 
-#### Dependencias
+#### Dependencias (IMPORTANTE)
 
 ---
 

@@ -118,5 +118,5 @@ Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugi
 ### Licença
 
 ---
-
-[LICENÇA](https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/LICENSE.md)
+O código fonte é liberado sob uma licença GNU GPL v3. Por favor, consulte 
+[LICENSE.md](https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/LICENSE.md) para mais informações.

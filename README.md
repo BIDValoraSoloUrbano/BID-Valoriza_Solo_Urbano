@@ -56,11 +56,11 @@ Para o cálculo, chamar o plugin:
 
 ![SLIDE_601](https://user-images.githubusercontent.com/60671104/74449985-26045f80-4e5c-11ea-86eb-7069dd5cd3c3.png)
 
-Campos:
+> Campos:
 
 > - INDFISC : Índice Fiscal do lote.
 
-Serão gerados:
+> Serão gerados:
 
 > - AREA : Área do lote.
 
@@ -78,9 +78,21 @@ final do guia do usuário novo
 O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. 
 https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf
 
-O arquivo BID_VALORIZA_DADOS.rar contem a pasta do plugin e a pasta com dados para a simulação de cálculo.
+> Lembrete 1: A pasta com dados para a simulação de cálculo, bem como a pasta do plugin estão contidos no arquivo "BID_VALORIZA_DADOS.rar".
 
-O plugin roda no QGIS versão 2.18.26.
+> Lembrete 2: O plugin roda no QGIS versão 2.18.26.
+
+1) Baixar o arquivo “BID_VALORIZA_DADOS.rar” para o HD:
+
+2) Extrair a pasta “BID_Valoriza_Solo_Urbano” para o HD;
+
+3) Extrair a pasta “ValorizaSoloUrbano” para o HD na pasta destino c:\usuarios\<nome>\.qgis2\python\plugins”. Em algumas maquinas a pasta destino dos plugins poderá ser diferente.
+
+4) Carregar o QGIS e seguir os passos abaixo para ativar o plugin “_Valoriza Solo Urbano”.
+
+![SLIDE_100](https://user-images.githubusercontent.com/60671104/74443077-58f52600-4e51-11ea-96d2-17a4815c04dd.png)
+
+------------------------------------------------------------------------------------------------------------------
 
 ### Instituições
 Prefeitura Municipal de Aracaju, Belo Horizonte e Fortaleza.

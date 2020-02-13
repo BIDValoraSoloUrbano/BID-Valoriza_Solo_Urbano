@@ -73,7 +73,7 @@ Para o cálculo, chamar o plugin:
 ---
 
 O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. 
-[Manual:clicar aqui](https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf)
+[Manual:Aqui](https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf)
 
 1) Baixar o arquivo “BID_VALORIZA_DADOS.rar” para o HD:
 

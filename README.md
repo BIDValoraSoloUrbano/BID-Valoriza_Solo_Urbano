@@ -123,4 +123,4 @@ O código fonte é liberado sob uma licença GNU GPL v3. Por favor, consulte
 
 ---
 
-![QGIS](https://user-images.githubusercontent.com/60671104/74476010-4eee1a00-4e87-11ea-9e40-1acffd0a4c05.PNG)
+# Bom proveito !

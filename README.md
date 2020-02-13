@@ -16,9 +16,63 @@ A partir dos dois mapas, determinou-se o “mapas das diferenças”, identifica
 
 #### IMPORTANTE: Os arquivos deverão ter o mesmo Sistema de Referencia	Cartográfica - SRC.
 
-Após a copia dos arquivos para seus devidos locais, carregar o QGIS e seguir os passos abaixo para ativar o plugin “_Valoriza Solo Urbano”.
+Após a copia dos arquivos para os devidos locais, carregar o QGIS e abrir o projeto CALCULO_VALORIZA_SOLO.qgs contido na pasta  c:\BID_Valoriza_Solo_Urbano. Serão mostrados os arquivos conforme figura abaixo. Seguir os próximos passos.
 
+![SLIDE_101](https://user-images.githubusercontent.com/60671104/74444983-69f36680-4e54-11ea-920c-1e256ccce5f6.png)
 
+Ao salvar o arquivo de MALHA_URBANA como LOTES, o temático será carregado, conforme figura abaixo. 
+
+![SLIDE_201](https://user-images.githubusercontent.com/60671104/74446463-afb12e80-4e56-11ea-9b2f-1461cdf89657.png)
+
+Para o cálculo, chamar o plugin:
+
+![SLIDE_301](https://user-images.githubusercontent.com/60671104/74447992-f738ba00-4e58-11ea-83e4-9ce4f540c8ea.png)
+
+1-Selecionar o tipo de OBRA ( como ainda tem-se somente um tipo de obra valorada, então já estará selecionada).
+
+2-Selecionar o arquivo da OBRA.
+
+3-Selecionar o arquivo de LOTES.
+
+4-Dar OK (aguardar resultado do cálculo).
+
+### Primeiro Resultado - Resumo dos Totais Envolvidos: 
+
+> - número de lotes, 
+
+> - área dos lotes, 
+
+> - incremento na valorização e
+
+> - de tributo para uma alíquota de 2%.
+
+![SLIDE_401](https://user-images.githubusercontent.com/60671104/74448430-b55c4380-4e59-11ea-9cf9-0c0919eb0586.png)
+
+### Segundo Resultado - Mapa temático com os intervalos de valores. 
+
+![SLIDE_501](https://user-images.githubusercontent.com/60671104/74449594-89da5880-4e5b-11ea-8ee2-cdfbf84828cf.png)
+
+### Terceiro Resultado - Tabela com campos e dados calculados. 
+
+![SLIDE_601](https://user-images.githubusercontent.com/60671104/74449985-26045f80-4e5c-11ea-86eb-7069dd5cd3c3.png)
+
+Campos:
+
+> - INDFISC : Índice Fiscal do lote.
+
+Serão gerados:
+
+> - AREA : Área do lote.
+
+> - DISTOBRA : distancia do lote até a obra.
+
+> - VALOR : valor da faixa.
+
+> - VALTOT : incremento do valor do lote após a materialização da obra (a ser acrescido ao valor cadastral).
+
+-------------------------------------------------
+final do guia do usuário novo
+-------------------------------------------------
 ### Guía de instalação
 
 O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. 

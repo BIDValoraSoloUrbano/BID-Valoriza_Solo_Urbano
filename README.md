@@ -18,7 +18,7 @@ A partir dos dois mapas, determinou-se o “mapas das diferenças”, identifica
 2) Quando o arquivo de MALHA_URBANA contiver muitos lotes, acima de 30.000, recomenda selecionar os lotes próximos a obra, cuidando
 	 para a seleção exceder os 300m, afim de diminuir a massa de dados a processar e salvar a seleção como LOTES.SHP;
 
-> #### IMPORTANTE: Os arquivos deverão ter o mesmo Sistema de Referencia	Cartográfica - SRC.
+> #### IMPORTANTE: Os arquivos deverão ter o mesmo Sistema de Referencia Cartográfica - SRC.
 
 Após a copia dos arquivos para os devidos locais, carregar o QGIS e abrir o projeto CALCULO_VALORIZA_SOLO.qgs contido na pasta  c:\BID_Valoriza_Solo_Urbano. Serão mostrados os arquivos conforme figura abaixo. Seguir os próximos passos.
 
@@ -118,3 +118,4 @@ Universidade Federal de Santa Catarina - Florianópolis - Brasil
 
 ---
 
+[LICENÇA](https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/LICENSE.md)

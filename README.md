@@ -28,23 +28,17 @@ Para o cálculo, chamar o plugin:
 
 ![SLIDE_301](https://user-images.githubusercontent.com/60671104/74447992-f738ba00-4e58-11ea-83e4-9ce4f540c8ea.png)
 
-1-Selecionar o tipo de OBRA ( como ainda tem-se somente um tipo de obra valorada, então já estará selecionada).
+1) Selecionar o tipo de OBRA ( como ainda tem-se somente um tipo de obra valorada, então já estará selecionada).
 
-2-Selecionar o arquivo da OBRA.
+2) Selecionar o arquivo da OBRA.
 
-3-Selecionar o arquivo de LOTES.
+3) Selecionar o arquivo de LOTES.
 
-4-Dar OK (aguardar resultado do cálculo).
+4) Dar OK (aguardar resultado do cálculo).
 
 ### Primeiro Resultado - Resumo dos Totais Envolvidos: 
 
-> - número de lotes, 
-
-> - área dos lotes, 
-
-> - incremento na valorização e
-
-> - de tributo para uma alíquota de 2%.
+> - número de lotes, área dos lotes, incremento na valorização e de tributo para uma alíquota de 2%.
 
 ![SLIDE_401](https://user-images.githubusercontent.com/60671104/74448430-b55c4380-4e59-11ea-9cf9-0c0919eb0586.png)
 
@@ -78,9 +72,7 @@ final do guia do usuário novo
 O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. 
 https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf
 
-> Lembrete 1: A pasta com dados para a simulação de cálculo, bem como a pasta do plugin estão contidos no arquivo "BID_VALORIZA_DADOS.rar".
-
-> Lembrete 2: O plugin roda no QGIS versão 2.18.26.
+> Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugin estão contidos no arquivo "BID_VALORIZA_DADOS.rar".
 
 1) Baixar o arquivo “BID_VALORIZA_DADOS.rar” para o HD:
 
@@ -88,9 +80,13 @@ https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BI
 
 3) Extrair a pasta “ValorizaSoloUrbano” para o HD na pasta destino c:\usuarios\<nome>\.qgis2\python\plugins”. Em algumas maquinas a pasta destino dos plugins poderá ser diferente.
 
-4) Carregar o QGIS e seguir os passos abaixo para ativar o plugin “_Valoriza Solo Urbano”.
+4) Carregar o QGIS e ativar o plugin “_Valoriza Solo Urbano”, conforme figura.
 
 ![SLIDE_100](https://user-images.githubusercontent.com/60671104/74443077-58f52600-4e51-11ea-96d2-17a4815c04dd.png)
+
+#### Dependencias
+
+> Lembrete 2: O plugin roda no QGIS versão 2.18.26.
 
 ------------------------------------------------------------------------------------------------------------------
 

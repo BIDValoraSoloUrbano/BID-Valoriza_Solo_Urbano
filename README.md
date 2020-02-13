@@ -120,3 +120,7 @@ Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugi
 ---
 O código fonte é liberado sob uma licença GNU GPL v3. Por favor, consulte 
 [LICENSE.md](https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/LICENSE.md) para mais informações.
+
+---
+
+![QGIS](https://user-images.githubusercontent.com/60671104/74476010-4eee1a00-4e87-11ea-9e40-1acffd0a4c05.PNG)

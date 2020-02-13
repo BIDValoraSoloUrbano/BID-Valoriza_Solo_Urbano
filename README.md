@@ -7,7 +7,7 @@ Depois de realizar o tratamento dos dados brutos, procedeu-se o cálculo do semi
 
 A partir dos dois mapas, determinou-se o “mapas das diferenças”, identificando-se os píxeis com alteração no valor. Foram estabelecidas faixas de valores em função da distância dos imóveis até a obra e estes valores foram introduzidos no plugin para permitir que outros municípios tenham condições de efetuar ou prever a valorização dos imóveis em torno de uma obra similar.
 
-### Guía de usuario
+### Guía de usuário
 
 1) Para os cálculos, deverão estar na pasta, os dados referentes a MALHA_URBANA, OBRA_PAVIM_LINHA e o arquivo LOTES.QML (que define automaticamente as cores do temático);
 

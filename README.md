@@ -70,7 +70,7 @@ d) Dar OK (aguardar resultado do cálculo).
 
 ### Nota dos autores:
 
-O usuário poderá efetuar a simulação de valorização do solo urbano em qualquer malha de lotes, para tanto basta inserir sua malha neste mesmo projeto e salva-la como LOTES, como descrito no manual. Editar a linha do local da obra, no arquivo OBRA_PAVIM_LINHA, para sua área de interesse e executar o plugin.
+O usuário poderá efetuar a simulação de valorização do solo urbano em qualquer malha de lotes, para tanto basta inserir sua malha neste mesmo projeto e salva-la como LOTES, conforme descrito no manual. Editar a linha do local da obra, no arquivo OBRA_PAVIM_LINHA, para sua área de interesse e executar o plugin.
 
 > Lembrete: Ficar atento a recomendação de numero 2 do Guia do Usuário.
 

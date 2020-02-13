@@ -72,7 +72,7 @@ final do guia do usuário novo
 O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. 
 https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf
 
-> Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugin estão contidos no arquivo "BID_VALORIZA_DADOS.rar".
+Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugin estão contidos no arquivo "BID_VALORIZA_DADOS.rar".
 
 1) Baixar o arquivo “BID_VALORIZA_DADOS.rar” para o HD:
 
@@ -86,9 +86,9 @@ https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BI
 
 #### Dependencias
 
-> 1) Plugin roda no QGIS versão 2.18.26.
+1) Plugin roda no QGIS versão 2.18.26.
 
-> 2) Pasta com dados para a simulação de cálculo, denominada  “BID_Valoriza_Solo_Urbano” que esta contida no arquivo  "BID_VALORIZA_DADOS.rar".
+2) Pasta com dados para a simulação de cálculo, denominada  “BID_Valoriza_Solo_Urbano” que esta contida no arquivo  "BID_VALORIZA_DADOS.rar".
 
 ------------------------------------------------------------------------------------------------------------------
 

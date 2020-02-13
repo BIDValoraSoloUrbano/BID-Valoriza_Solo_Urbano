@@ -32,13 +32,13 @@ Para o cálculo, chamar o plugin:
 
 ![SLIDE_301](https://user-images.githubusercontent.com/60671104/74447992-f738ba00-4e58-11ea-83e4-9ce4f540c8ea.png)
 
-1) Selecionar o tipo de OBRA ( como ainda tem-se somente um tipo de obra valorada, então já estará selecionada).
+a) Selecionar o tipo de OBRA ( como ainda tem-se somente um tipo de obra valorada, então já estará selecionada).
 
-2) Selecionar o arquivo da OBRA.
+b) Selecionar o arquivo da OBRA.
 
-3) Selecionar o arquivo de LOTES.
+c) Selecionar o arquivo de LOTES.
 
-4) Dar OK (aguardar resultado do cálculo).
+d) Dar OK (aguardar resultado do cálculo).
 
 #### Primeiro Resultado - Resumo dos totais envolvidos: 
 
@@ -68,6 +68,12 @@ Para o cálculo, chamar o plugin:
 
 > - VALTOT : incremento do valor do lote após a materialização da obra (a ser acrescido ao valor cadastral).
 
+### Nota dos autores:
+
+O usuário poderá efetuar a simulação de valorização do solo urbano em qualquer malha de lotes, para tanto basta inserir sua malha neste mesmo projeto e salva-la como LOTES, como descrito no manual. Editar a linha do local da obra para sua area de interesse e execular o plugin.
+
+Ficar atento a recomendação de numero 2 do Guia do Usuário.
+
 ### Guía de instalação
 
 ---
@@ -75,13 +81,13 @@ Para o cálculo, chamar o plugin:
 O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. 
 [Manual:Aqui](https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf)
 
-1) Baixar o arquivo “BID_VALORIZA_DADOS.rar” para o HD:
+i) Baixar o arquivo “BID_VALORIZA_DADOS.rar” para o HD:
 
-2) Extrair a pasta “BID_Valoriza_Solo_Urbano” para o HD;
+ii) Extrair a pasta “BID_Valoriza_Solo_Urbano” para o HD;
 
-3) Extrair a pasta “ValorizaSoloUrbano” para o HD na pasta destino c:\usuarios\<nome>\.qgis2\python\plugins”. Em algumas maquinas a pasta destino dos plugins poderá ser diferente.
+iii) Extrair a pasta “ValorizaSoloUrbano” para o HD na pasta destino c:\usuarios\<nome>\.qgis2\python\plugins”. Em algumas maquinas a pasta destino dos plugins poderá ser diferente.
 
-4) Carregar o QGIS e ativar o plugin “_Valoriza Solo Urbano”, conforme figura.
+iiii) Carregar o QGIS e ativar o plugin “_Valoriza Solo Urbano”, conforme figura.
 
 ![SLIDE_100](https://user-images.githubusercontent.com/60671104/74443077-58f52600-4e51-11ea-96d2-17a4815c04dd.png)
 
@@ -91,9 +97,9 @@ Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugi
 
 ---
 
-1) Plugin roda no QGIS versão 2.18.26.
+Plugin roda no QGIS versão 2.18.26.
 
-2) Da pasta com dados para a simulação de cálculo, denominada “BID_Valoriza_Solo_Urbano” que esta contida no arquivo  "BID_VALORIZA_DADOS.rar".
+Da pasta com dados para a simulação de cálculo, denominada “BID_Valoriza_Solo_Urbano” que esta contida no arquivo  "BID_VALORIZA_DADOS.rar".
 
 
 ### Instituições

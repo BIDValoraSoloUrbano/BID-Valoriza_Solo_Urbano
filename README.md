@@ -14,13 +14,13 @@ A partir dos dois mapas, determinou-se o “mapas das diferenças”, identifica
 2) Quando o arquivo de MALHA_URBANA contiver muitos lotes, acima de 30.000, recomenda selecionar os lotes próximos a obra, cuidando
 	 para a seleção exceder os 300m, afim de diminuir a massa de dados a processar e salvar a seleção como LOTES.SHP;
 
-#### IMPORTANTE: Os arquivos deverão ter o mesmo Sistema de Referencia	Cartográfica - SRC.
+> #### IMPORTANTE: Os arquivos deverão ter o mesmo Sistema de Referencia	Cartográfica - SRC.
 
 Após a copia dos arquivos para os devidos locais, carregar o QGIS e abrir o projeto CALCULO_VALORIZA_SOLO.qgs contido na pasta  c:\BID_Valoriza_Solo_Urbano. Serão mostrados os arquivos conforme figura abaixo. Seguir os próximos passos.
 
 ![SLIDE_101](https://user-images.githubusercontent.com/60671104/74444983-69f36680-4e54-11ea-920c-1e256ccce5f6.png)
 
-Ao salvar o arquivo de MALHA_URBANA como LOTES, o temático será carregado, conforme figura abaixo. 
+Ao salvar o arquivo de MALHA_URBANA como LOTES, as cores do temático serão definidas, conforme figura abaixo. 
 
 ![SLIDE_201](https://user-images.githubusercontent.com/60671104/74446463-afb12e80-4e56-11ea-9b2f-1461cdf89657.png)
 
@@ -36,17 +36,17 @@ Para o cálculo, chamar o plugin:
 
 4) Dar OK (aguardar resultado do cálculo).
 
-### Primeiro Resultado - Resumo dos Totais Envolvidos: 
+#### Primeiro Resultado - Resumo dos totais envolvidos: 
 
 > - número de lotes, área dos lotes, incremento na valorização e de tributo para uma alíquota de 2%.
 
 ![SLIDE_401](https://user-images.githubusercontent.com/60671104/74448430-b55c4380-4e59-11ea-9cf9-0c0919eb0586.png)
 
-### Segundo Resultado - Mapa temático com os intervalos de valores. 
+#### Segundo Resultado - Mapa temático com os intervalos de valores. 
 
 ![SLIDE_501](https://user-images.githubusercontent.com/60671104/74449594-89da5880-4e5b-11ea-8ee2-cdfbf84828cf.png)
 
-### Terceiro Resultado - Tabela com campos e dados calculados. 
+#### Terceiro Resultado - Tabela com campos e dados calculados. 
 
 ![SLIDE_601](https://user-images.githubusercontent.com/60671104/74449985-26045f80-4e5c-11ea-86eb-7069dd5cd3c3.png)
 
@@ -86,7 +86,9 @@ https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BI
 
 #### Dependencias
 
-> Lembrete 2: O plugin roda no QGIS versão 2.18.26.
+> 1) Plugin roda no QGIS versão 2.18.26.
+
+> 2) Pasta com dados para a simulação de cálculo, denominada  “BID_Valoriza_Solo_Urbano” que esta contida no arquivo  "BID_VALORIZA_DADOS.rar".
 
 ------------------------------------------------------------------------------------------------------------------
 

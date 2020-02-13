@@ -70,16 +70,16 @@ d) Dar OK (aguardar resultado do cálculo).
 
 ### Nota dos autores:
 
-O usuário poderá efetuar a simulação de valorização do solo urbano em qualquer malha de lotes, para tanto basta inserir sua malha neste mesmo projeto e salva-la como LOTES, como descrito no manual. Editar a linha do local da obra para sua area de interesse e execular o plugin.
+O usuário poderá efetuar a simulação de valorização do solo urbano em qualquer malha de lotes, para tanto basta inserir sua malha neste mesmo projeto e salva-la como LOTES, como descrito no manual. Editar a linha do local da obra, no arquivo OBRA_PAVIM_LINHA, para sua área de interesse e executar o plugin.
 
-Ficar atento a recomendação de numero 2 do Guia do Usuário.
+> Lembrete: Ficar atento a recomendação de numero 2 do Guia do Usuário.
 
 ### Guía de instalação
 
 ---
 
 O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido encontra-se descrito no arquivo MANUAL_BID_VALORIZA.PDF. 
-[Manual:Aqui](https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf)
+[Manual:aqui](https://github.com/JOAODESTRO1484/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf)
 
 i) Baixar o arquivo “BID_VALORIZA_DADOS.rar” para o HD:
 
@@ -97,9 +97,9 @@ Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugi
 
 ---
 
-Plugin roda no QGIS versão 2.18.26.
+• Plugin roda no QGIS versão 2.18.26.
 
-Da pasta com dados para a simulação de cálculo, denominada “BID_Valoriza_Solo_Urbano” que esta contida no arquivo  "BID_VALORIZA_DADOS.rar".
+• Da pasta com dados para a simulação de cálculo, denominada “BID_Valoriza_Solo_Urbano” que esta contida no arquivo  "BID_VALORIZA_DADOS.rar".
 
 
 ### Instituições

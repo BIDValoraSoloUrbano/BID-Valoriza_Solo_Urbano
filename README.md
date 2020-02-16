@@ -6,7 +6,9 @@ O [modelo desenvolvido](https://user-images.githubusercontent.com/60671104/74605
  prediz a valorização continua de terrenos próximos a uma obra pública a partir de amostras de preços de mercado. 
 
 Para o desenvolvimento foram utilizados dados dos observatórios de mercado imobiliário levantados [antes e depois](https://user-images.githubusercontent.com/60671104/74605557-019cc300-50a8-11ea-9187-296c13e45b3f.png) da obra, utilizando dados próximos e até o limite da evidencia de sua influência.
-Depois de realizar o tratamento dos dados brutos, procedeu-se o cálculo do semivariograma e as superfícies de variação para cada época, representando-as em formato RASTER. 
+Depois de realizar o tratamento dos dados brutos, procedeu-se o cálculo do [semivariograma](https://user-images.githubusercontent.com/60671104/74606716-893aff80-50b1-11ea-993e-d9fe40e566fa.png)
+ e as [superfícies](https://user-images.githubusercontent.com/60671104/74606715-88a26900-50b1-11ea-8982-e557c920f08d.png)
+ de variação para cada época, representando-as em formato RASTER. 
 
 A partir dos dois mapas, determinou-se o [“mapas das diferenças”](https://user-images.githubusercontent.com/60671104/74605558-02355980-50a8-11ea-8945-6f5cad648637.png), identificando-se os píxeis com alteração no valor e transferindo-o para os [centróides dos lotes](https://user-images.githubusercontent.com/60671104/74605561-0497b380-50a8-11ea-836c-06944b3f6afb.png)
 . Foram estabelecidas [faixas de valores](https://user-images.githubusercontent.com/60671104/74605559-02cdf000-50a8-11ea-9b32-958869719785.png)

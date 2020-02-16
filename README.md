@@ -14,7 +14,7 @@ A partir dos dois mapas, determinou-se o [“mapas das diferenças”](https://u
 . Foram estabelecidas [faixas de valores](https://user-images.githubusercontent.com/60671104/74605559-02cdf000-50a8-11ea-9b32-958869719785.png)
  em função da distância dos imóveis até a obra e estes valores foram introduzidos no código do [plugin](https://user-images.githubusercontent.com/60671104/74605562-0497b380-50a8-11ea-9ede-fb74850e713e.png) para permitir que outros municípios tenham condições de efetuar ou prever a [valorização](https://user-images.githubusercontent.com/60671104/74605563-05304a00-50a8-11ea-8353-6d56edf7cc20.PNG) dos imóveis em torno de uma obra similar. 
  
-Obra utilizada como base de cálculo na qual foi executada a pavimentação do trecho da [Avenida José Jatahy](https://user-images.githubusercontent.com/60671104/74606993-be485180-50b3-11ea-91c6-1796521ca7be.png), Municipio de Fortaleza, Ceará.
+A obra utilizada como base de cálculo foi a pavimentação do trecho da [Avenida José Jatahy](https://user-images.githubusercontent.com/60671104/74606993-be485180-50b3-11ea-91c6-1796521ca7be.png), Municipio de Fortaleza, Ceará.
 
 ### Guía de usuário
 

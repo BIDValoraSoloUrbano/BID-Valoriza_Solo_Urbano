@@ -5,15 +5,12 @@
 O [modelo desenvolvido](https://user-images.githubusercontent.com/60671104/74605560-03ff1d00-50a8-11ea-91dd-e32921332822.png)
  prediz a valorização continua de terrenos próximos a uma obra pública a partir de amostras de preços de mercado. 
 
-Para o desenvolvimento foram utilizados dados dos observatórios de mercado imobiliário levantados [antes e depois](https://user-images.githubusercontent.com/60671104/74605557-019cc300-50a8-11ea-9187-296c13e45b3f.png)
- da obra, utilizando dados próximos e até o limite da evidencia de sua influência.
+Para o desenvolvimento foram utilizados dados dos observatórios de mercado imobiliário levantados [antes e depois](https://user-images.githubusercontent.com/60671104/74605557-019cc300-50a8-11ea-9187-296c13e45b3f.png) da obra, utilizando dados próximos e até o limite da evidencia de sua influência.
 Depois de realizar o tratamento dos dados brutos, procedeu-se o cálculo do semivariograma e as superfícies de variação para cada época, representando-as em formato RASTER. 
 
 A partir dos dois mapas, determinou-se o [“mapas das diferenças”](https://user-images.githubusercontent.com/60671104/74605558-02355980-50a8-11ea-8945-6f5cad648637.png), identificando-se os píxeis com alteração no valor e transferindo-o para os [centróides dos lotes](https://user-images.githubusercontent.com/60671104/74605561-0497b380-50a8-11ea-836c-06944b3f6afb.png)
 . Foram estabelecidas [faixas de valores](https://user-images.githubusercontent.com/60671104/74605559-02cdf000-50a8-11ea-9b32-958869719785.png)
- em função da distância dos imóveis até a obra e estes valores foram introduzidos no código do [plugin](https://user-images.githubusercontent.com/60671104/74605562-0497b380-50a8-11ea-9ede-fb74850e713e.png)
- para permitir que outros municípios tenham condições de efetuar ou prever a [valorização](https://user-images.githubusercontent.com/60671104/74605563-05304a00-50a8-11ea-8353-6d56edf7cc20.PNG)
- dos imóveis em torno de uma obra similar.
+ em função da distância dos imóveis até a obra e estes valores foram introduzidos no código do [plugin](https://user-images.githubusercontent.com/60671104/74605562-0497b380-50a8-11ea-9ede-fb74850e713e.png) para permitir que outros municípios tenham condições de efetuar ou prever a [valorização](https://user-images.githubusercontent.com/60671104/74605563-05304a00-50a8-11ea-8353-6d56edf7cc20.PNG) dos imóveis em torno de uma obra similar.
 
 ### Guía de usuário
 
@@ -22,7 +19,7 @@ A partir dos dois mapas, determinou-se o [“mapas das diferenças”](https://u
 1) Para os cálculos, deverão estar na pasta, os dados referentes a MALHA_URBANA, OBRA_PAVIM_LINHA e o arquivo LOTES.QML (que define automaticamente as cores do temático);
 
 2) Quando o arquivo de MALHA_URBANA.SHP contiver muitos lotes, acima de 30.000, recomenda selecionar os lotes próximos a obra, cuidando
-	 para a seleção exceder os 300m, afim de diminuir a massa de dados a processar, salvar a seleção como LOTES.SHP;
+ para a seleção exceder os 300m, afim de diminuir a massa de dados a processar, salvar a seleção como LOTES.SHP;
 
 > #### IMPORTANTE: Os arquivos deverão ter o mesmo Sistema de Referencia Cartográfica - SRC.
 
@@ -96,7 +93,7 @@ iiii) Carregar o QGIS e ativar o plugin “_Valoriza Solo Urbano”, conforme fi
 
 ![SLIDE_100](https://user-images.githubusercontent.com/60671104/74443077-58f52600-4e51-11ea-96d2-17a4815c04dd.png)
 
-Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugin estão contidos no arquivo "BID_VALORIZA_DADOS.rar".
+Lembrete: A pasta com dados para a simulação de cálculo e a pasta com plugin estão contidos no arquivo "BID_VALORIZA_DADOS.rar".
 
 
 > #### IMPORTANTE : O [Plugin](https://user-images.githubusercontent.com/60671104/74605555-006b9600-50a8-11ea-85a9-a51eddcd9ac0.png) roda no QGIS versão 2.18.26.

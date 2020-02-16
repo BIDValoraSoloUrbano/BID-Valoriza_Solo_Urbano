@@ -16,7 +16,7 @@ A partir dos dois mapas, determinou-se o “mapas das diferenças”, identifica
 1) Para os cálculos, deverão estar na pasta, os dados referentes a MALHA_URBANA, OBRA_PAVIM_LINHA e o arquivo LOTES.QML (que define automaticamente as cores do temático);
 
 2) Quando o arquivo de MALHA_URBANA.SHP contiver muitos lotes, acima de 30.000, recomenda selecionar os lotes próximos a obra, cuidando
-	 para a seleção exceder os 300m, afim de diminuir a massa de dados a processar e salvar a seleção como LOTES.SHP;
+	 para a seleção exceder os 300m, afim de diminuir a massa de dados a processar, salvar a seleção como LOTES.SHP;
 
 > #### IMPORTANTE: Os arquivos deverão ter o mesmo Sistema de Referencia Cartográfica - SRC.
 

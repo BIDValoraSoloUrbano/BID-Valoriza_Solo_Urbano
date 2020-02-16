@@ -18,7 +18,7 @@ Depois de realizar o tratamento dos dados brutos, procedeu-se o cálculo do semi
 
 A partir dos dois mapas, determinou-se o [“mapas das diferenças”](https://user-images.githubusercontent.com/60671104/74605558-02355980-50a8-11ea-8945-6f5cad648637.png), identificando-se os píxeis com alteração no valor e transferindo-o para os [centróides dos lotes](https://user-images.githubusercontent.com/60671104/74605561-0497b380-50a8-11ea-836c-06944b3f6afb.png)
 . Foram estabelecidas [faixas de valores](https://user-images.githubusercontent.com/60671104/74605559-02cdf000-50a8-11ea-9b32-958869719785.png)
- em função da distância dos imóveis até a obra e estes valores foram introduzidos no [plugin](https://user-images.githubusercontent.com/60671104/74605562-0497b380-50a8-11ea-9ede-fb74850e713e.png)
+ em função da distância dos imóveis até a obra e estes valores foram introduzidos no código do [plugin](https://user-images.githubusercontent.com/60671104/74605562-0497b380-50a8-11ea-9ede-fb74850e713e.png)
  para permitir que outros municípios tenham condições de efetuar ou prever a [valorização](https://user-images.githubusercontent.com/60671104/74605563-05304a00-50a8-11ea-8353-6d56edf7cc20.PNG)
  dos imóveis em torno de uma obra similar.
 

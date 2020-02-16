@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 ### MODELOS DE VALORIZAÇÃO DA INTERVENÇÃO PÚBLICA A NÍVEL MUNICIPAL
 
 ---
@@ -106,8 +99,7 @@ iiii) Carregar o QGIS e ativar o plugin “_Valoriza Solo Urbano”, conforme fi
 Lembrete 1: A pasta com dados para a simulação de cálculo e a pasta com plugin estão contidos no arquivo "BID_VALORIZA_DADOS.rar".
 
 
-> #### IMPORTANTE : [Plugin](https://user-images.githubusercontent.com/60671104/74605555-006b9600-50a8-11ea-85a9-a51eddcd9ac0.png)
- roda no QGIS versão 2.18.26.
+> #### IMPORTANTE : O [Plugin](https://user-images.githubusercontent.com/60671104/74605555-006b9600-50a8-11ea-85a9-a51eddcd9ac0.png) roda no QGIS versão 2.18.26.
 
 
 ### Instituições

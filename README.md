@@ -80,7 +80,7 @@ O usuário poderá efetuar a simulação de valorização do solo urbano em qual
 
 O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido tambem encontra-se descrito (em SLIDE) no arquivo [MANUAL_BID_VALORIZA.PDF](https://github.com/BIDValoraSoloUrbano/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf).
 
-i) Baixar o arquivo “BID_VALORIZA_DADOS.rar” para o HD:
+i) Baixar o arquivo [“BID_VALORIZA_DADOS.rar”](https://github.com/BIDValoraSoloUrbano/BID-Valoriza_Solo_Urbano/blob/master/BID_VALORIZA_DADOS.rar) para o HD:
 
 ii) Extrair a pasta “BID_Valoriza_Solo_Urbano” para o HD;
 

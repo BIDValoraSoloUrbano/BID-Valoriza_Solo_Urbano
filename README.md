@@ -14,8 +14,37 @@ A partir dos dois mapas, determinou-se o [“mapas das diferenças”](https://u
 . Foram estabelecidas [faixas de valores](https://user-images.githubusercontent.com/60671104/74605559-02cdf000-50a8-11ea-9b32-958869719785.png)
  em função da distância dos imóveis até a obra e estes valores foram introduzidos no código do [plugin](https://user-images.githubusercontent.com/60671104/74605562-0497b380-50a8-11ea-9ede-fb74850e713e.png) para permitir que outros municípios tenham condições de efetuar ou prever a [valorização](https://user-images.githubusercontent.com/60671104/74605563-05304a00-50a8-11ea-8353-6d56edf7cc20.PNG) dos imóveis em torno de uma obra similar. 
  
-A obra utilizada como base de cálculo foi a pavimentação do trecho da [Avenida José Jatahy](https://user-images.githubusercontent.com/60671104/74607225-cacda980-50b5-11ea-83af-f43a0d9e0bdb.png)
-, Municipio de Fortaleza, Ceará. Concluída no ano de 2016.
+A obra utilizada como base de cálculo foi a pavimentação do trecho da [Avenida José Jatahy](https://user-images.githubusercontent.com/60671104/74607225-cacda980-50b5-11ea-83af-f43a0d9e0bdb.png), Municipio de Fortaleza, Ceará. Concluída no ano de 2016.
+
+
+
+### Guía de instalação
+
+---
+
+O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido tambem encontra-se descrito (em SLIDE) no arquivo [MANUAL_BID_VALORIZA.PDF](https://github.com/BIDValoraSoloUrbano/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf).
+
+i) Baixar o arquivo [“BID_VALORIZA_DADOS.rar”](https://github.com/BIDValoraSoloUrbano/BID-Valoriza_Solo_Urbano/blob/master/BID_VALORIZA_DADOS.rar) para o HD:
+
+ii) Extrair a pasta “BID_Valoriza_Solo_Urbano” para o HD;
+
+iii) Extrair a pasta “ValorizaSoloUrbano” para o HD na pasta destino c:\usuarios\<nome>\.qgis2\python\plugins”. Em algumas maquinas a pasta destino dos plugins poderá ser diferente.
+
+iiii) Carregar o QGIS e ativar o plugin “_Valoriza Solo Urbano”, conforme figura.
+
+![SLIDE_100](https://user-images.githubusercontent.com/60671104/74443077-58f52600-4e51-11ea-96d2-17a4815c04dd.png)
+
+
+> #### IMPORTANTE : O [Plugin](https://user-images.githubusercontent.com/60671104/74605555-006b9600-50a8-11ea-85a9-a51eddcd9ac0.png) roda no QGIS versão 2.18.26.
+
+
+Lembrete: A pasta denominada "BID_Valoriza_Solo_Urbano" com dados para a simulação de cálculo estão no arquivo "BID_VALORIZA_DADOS.rar", a pasta do plugin denominada "ValorizaSoloUrbano" tambem está disponivel neste arquivo.
+
+
+
+
+
+
 
 ### Guía de usuário
 
@@ -81,29 +110,6 @@ d) Dar OK (aguardar resultado do cálculo).
 O usuário poderá efetuar a simulação de valorização do solo urbano em qualquer malha de lotes, para tanto basta inserir sua malha neste mesmo projeto e salva-la como LOTES, conforme descrito no manual. Editar a linha do local da obra, no arquivo OBRA_PAVIM_LINHA, para sua área de interesse e executar o plugin.
 
 > Lembrete: Ficar atento a recomendação de numero 2 do Guia do Usuário.
-
-### Guía de instalação
-
----
-
-O roteiro contendo informações com relação ao ambiente e software necessário para a utilização do plugin desenvolvido tambem encontra-se descrito (em SLIDE) no arquivo [MANUAL_BID_VALORIZA.PDF](https://github.com/BIDValoraSoloUrbano/BID-Valoriza_Solo_Urbano/blob/master/MANUAL_BID_VALORIZA.pdf).
-
-i) Baixar o arquivo [“BID_VALORIZA_DADOS.rar”](https://github.com/BIDValoraSoloUrbano/BID-Valoriza_Solo_Urbano/blob/master/BID_VALORIZA_DADOS.rar) para o HD:
-
-ii) Extrair a pasta “BID_Valoriza_Solo_Urbano” para o HD;
-
-iii) Extrair a pasta “ValorizaSoloUrbano” para o HD na pasta destino c:\usuarios\<nome>\.qgis2\python\plugins”. Em algumas maquinas a pasta destino dos plugins poderá ser diferente.
-
-iiii) Carregar o QGIS e ativar o plugin “_Valoriza Solo Urbano”, conforme figura.
-
-![SLIDE_100](https://user-images.githubusercontent.com/60671104/74443077-58f52600-4e51-11ea-96d2-17a4815c04dd.png)
-
-
-> #### IMPORTANTE : O [Plugin](https://user-images.githubusercontent.com/60671104/74605555-006b9600-50a8-11ea-85a9-a51eddcd9ac0.png) roda no QGIS versão 2.18.26.
-
-
-Lembrete: A pasta denominada "BID_Valoriza_Solo_Urbano" com dados para a simulação de cálculo estão no arquivo "BID_VALORIZA_DADOS.rar", a pasta do plugin denominada "ValorizaSoloUrbano" tambem está disponivel neste arquivo.
-
 
 
 ### Instituições
